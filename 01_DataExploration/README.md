@@ -35,14 +35,27 @@
 
 <img width="794" height="270" alt="Image" src="https://github.com/user-attachments/assets/3700879d-6377-4b82-b444-a115edc8b0a3" />
 
+<img width="794" height="270" alt="Image" src="https://github.com/user-attachments/assets/12ab127f-ca53-46a4-8184-12b2ab98eb34" />
+
+<img width="794" height="273" alt="Image" src="https://github.com/user-attachments/assets/04866352-e676-46c6-a008-aa94da6f63ac" />
+
+<img width="794" height="270" alt="Image" src="https://github.com/user-attachments/assets/eabe86ac-8129-4efa-ae89-9fe683b293a7" />
+
 - Image Details:
-- Size: variable (width and height differ between images)
-- Format: JPEG / PNG (depending on dataset)
-- Color channels: RGB  
+![alt text](image.png)
+  1. Image size: (512, 512)
+  2. Image mode: L
+  3. Image format: JPEG  
+   
 - Image Size Distribution: Histogram shows variation in width and height
-[image](path)
+  
+<img width="699" height="374" alt="Image" src="https://github.com/user-attachments/assets/0e60286a-f7de-4319-aab5-6de4c64de2a2" />
+
 - Class Balance: Training set is slightly imbalanced
-[image](path)
+
+<img width="859" height="316" alt="Image" src="https://github.com/user-attachments/assets/268ececf-8bbb-4d89-9f05-7d383168718f" />
+
+<img width="850" height="316" alt="Image" src="https://github.com/user-attachments/assets/9e974547-cb4c-445c-b2f1-6a3a6689adb3" />
 
 ---
 
