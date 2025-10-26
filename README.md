@@ -11,6 +11,10 @@ This project explores an approach to brain tumor classification that integrates 
 By visualizing attention regions, the project aims to bridge the gap between model accuracy and clinical interpretability.
 
 ---
+### Research Question:
+How can deep learning models for brain tumor classification be made more reliable and clinically interpretable without compromising diagnostic accuracy?
+
+---
 
 ## Methodology
 1. **Dataset**: Public Brain Tumor MRI dataset (7,000+ labeled 2D scans).  
@@ -22,9 +26,7 @@ By visualizing attention regions, the project aims to bridge the gap between mod
 ---
 
 ## Repository Structure
-
-Explainable-Brain-Tumor-MRI/ │ ├── data/                # Dataset (train/test folders) ├── notebooks/           # Jupyter notebooks for training and visualization ├── models/              # Trained model weights ├── utils/               # Helper scripts (preprocessing, plotting, etc.) ├── results/             # Example outputs and heatmaps └── README.md
-
+*(to be updated)*  
 ---
 
 ## Example Output
@@ -43,9 +45,7 @@ Example explanation of model prediction using Grad-CAM:
 ---
 
 ## Future Work
-- Extend explainability to 3D MRI data.  
-- Evaluate interpretability quality with medical experts.  
-- Explore hybrid methods combining saliency maps and textual explanations.
+*(to be updated)*  
 
 ---
 
