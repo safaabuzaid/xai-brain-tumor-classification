@@ -26,7 +26,8 @@ How can deep learning models for brain tumor classification be made more reliabl
 ---
 
 ## Repository Structure
-*(to be updated)*  
+*(to be updated)* 
+
 ---
 
 ## Example Output
