@@ -1,4 +1,4 @@
-# Explainable Brain Tumor MRI Classification
+# Evaluating the Clinical Reliability of Deep Learning Models for Brain Tumor Classification Using MRI: An Explainable AI Approach
 
 This repository contains the implementation of an **explainable deep learning model** for brain tumor MRI classification.  
 The goal is not only to achieve accurate predictions but also to provide **interpretable visual explanations** that highlight the MRI regions most responsible for each decision.
@@ -12,10 +12,16 @@ By visualizing attention regions, the project aims to bridge the gap between mod
 
 ---
 ### Research Question:
-How can deep learning models for brain tumor classification be made more reliable and clinically interpretable without compromising diagnostic accuracy?
+Does high classification accuracy in CNN models for brain tumor MRI truly reflect clinically meaningful decision-making, or do models rely on spurious or irrelevant image features?
 
 ---
+## Goals of the Project:
+1. **Build a robust CNN model** for brain tumor classification that achieves high predictive accuracy.
+2. **Evaluate model reliability** using explainable AI techniques (e.g., Grad-CAM) to visualize attention on MRI images.
+3. **Analyze discrepancies** between high accuracy and clinical relevance, identifying cases where the model focuses on non-tumor regions.
+4. **Understand limitations** of deep learning models in medical imaging and provide insights into improving model trustworthiness for clinical applications.
 
+---
 ## Methodology
 1. **Dataset**: Public Brain Tumor MRI dataset (7,000+ labeled 2D scans).  
 2. **Preprocessing**: Image normalization, resizing, and augmentation.  
@@ -35,13 +41,6 @@ Example explanation of model prediction using Grad-CAM:
 
 *(to be updated with visual sample)*  
 > The generated heatmap highlights regions within the MRI scan that contributed most to the model’s classification decision.
-
----
-
-## Goals
-- Build a robust CNN for brain tumor classification.  
-- Integrate explainability tools to produce interpretable results.  
-- Compare interpretability techniques and assess their clinical relevance.
 
 ---
 
