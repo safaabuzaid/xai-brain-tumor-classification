@@ -10,7 +10,6 @@ The increasing use of deep learning in medical imaging raises concerns about the
 This project explores an approach to brain tumor classification that integrates explainability tools such as **Grad-CAM** and **LIME**, enabling visual insight into the model’s reasoning.  
 By visualizing attention regions, the project aims to bridge the gap between model accuracy and clinical interpretability.
 
----
 ### Research Question:
 Does high classification accuracy in CNN models for brain tumor MRI truly reflect clinically meaningful decision-making, or do models rely on spurious or irrelevant image features?
 
